@@ -1,0 +1,17 @@
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: steelblue;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    background-color: lightskyblue;
+}
+
+footer {
+    background-color: red;
+    padding: 3vh;
+    text-align: center;
+}
